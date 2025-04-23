@@ -5,7 +5,7 @@ The Neurox Workload management cluster is where GPU workloads run on GPU nodes. 
 This outlines the requirements needed to deploy standalone Neurox Workload components into additional Kubernetes GPU clusters. Neurox Workload can autodetect many Cloud Service Provider (CSP) environments, automatically surfacing metadata such as region or availability zone, as well as identify models of GPUs attached.
 
 ## Multi-Cluster setup
-One of the best features of Neurox is to monitor multiple Neurox Workload clusters from a single Neurox Control plane. Common use cases include joining GPU clusters from various cloud providers or even on-prem clusters.
+One of the best features of Neurox is monitoring multiple Neurox Workload clusters from a single Neurox Control plane. Common use cases include joining GPU clusters from various cloud providers or even on-prem clusters.
 Please see our [pricing plans](https://neurox.com/pricing) to determine how many Neurox Workload clusters may be joined into a Neurox Control cluster.
 
 ## Cluster requirements
