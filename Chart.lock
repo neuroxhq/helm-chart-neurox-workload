@@ -6,4 +6,4 @@ dependencies:
   repository: oci://ghcr.io/neuroxhq/helm-charts
   version: 2.18.0
 digest: sha256:72275d4afaddfbd08045d019076655fdc6a621ccb83874865771cbe1f7c73696
-generated: "2025-04-22T23:22:30.750793189Z"
+generated: "2025-04-25T03:37:40.002615761Z"
