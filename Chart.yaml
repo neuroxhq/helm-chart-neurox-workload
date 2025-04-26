@@ -1,11 +1,11 @@
 apiVersion: v2
-appVersion: 2.0.1
+appVersion: 2.0.4
 dependencies:
 - alias: agent
   condition: agent.enabled,enabled
   name: neurox-workload-agent
   repository: oci://ghcr.io/neuroxhq/helm-charts
-  version: 2.10.0
+  version: 2.10.2
 - alias: manager
   condition: manager.enabled,enabled
   name: neurox-workload-manager
@@ -13,4 +13,4 @@ dependencies:
   version: 2.18.0
 description: A Helm chart for deploying the Neurox Workload Cluster
 name: neurox-workload
-version: 2.0.1
+version: 2.0.4
